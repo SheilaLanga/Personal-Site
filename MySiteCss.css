@@ -1,0 +1,194 @@
+
+body{
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-top: 0px;
+	text-align: center;
+	font-family:'Merriweather', sans-serif;
+
+}
+
+h1{
+	margin-top: 50px auto 0 auto;
+	font-family: sacramento;
+	font-size: 5.625rem;
+	color: #fa7f72;
+	font-weight: normal;
+	line-height: 0.5;
+}
+
+
+h2{
+	font-family: montserat, serif;
+	font-size: 30px;
+	color:#ee6f57;
+	font-weight: normal;
+	padding-bottom: 0; 
+} 
+
+h3{
+	font-family: montserat, serif;
+	font-size: 25px;
+	color:#fa7f72;
+	font-weight: normal;
+	padding-bottom: 10px; 
+}
+
+
+hr{
+	border-top: dotted 7px #f1d4d4;
+	border-bottom: none;
+	border-left: none;
+	border-right: none; 
+	border-spacing: 5px;
+	margin: 100px auto;
+	width: 5%;
+
+}
+
+p{
+	line-height: 2;
+}
+
+a{
+	color: #e6739f;
+	margin: 10px 10px;
+	font-family: montserat, serif;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #cc0e74 ;
+}
+.pro{
+	text-decoration: underline;
+}
+.TopContainer{
+	background-color: #ffd5cd;
+	position: relative;
+	padding-top: 100px;
+}
+
+.MiddleContainer{
+	margin: 100px 0;
+	}
+
+.BottomContainer{
+	background-color: #ffd5cd; 
+	padding:50px 0 20px;
+	}
+
+.TopCloud{
+	position: absolute;
+	right: 300px;
+	top: 50px;
+	color: white;
+}
+
+.BottomCloud{
+	position: absolute;
+	right: 300px;
+	left: 200px;
+}
+.PlaneFlying{
+	width: 320px;
+}
+.SkillRow{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	line-height:2; 
+	text-align: left;
+}
+
+.ProfilePic{
+	width: 15%;
+	text-orientation: center;
+	text-align: center;
+	line-height: 2;
+
+}
+.PlanePic{
+	width: 25%;
+	float: right;
+	margin-left: 50px;
+
+}
+
+.DeveloperPic{
+	width: 25%;
+	float: left;
+	margin-right: 50px;
+
+}
+.CodePic{
+	width: 25%;
+	float: right;
+	margin-left: 50px;
+
+}
+.ReadingPic{
+	width: 25%;
+	float: left;
+	margin-right: 50px;
+
+}
+
+.LanguagePic{
+	width: 25%;
+	float: right;
+	margin-left: 50px;
+
+}
+.SingingPic{
+	width: 25%;
+	float: left;
+	margin-right: 50px;
+
+}
+.Intro{
+	margin:auto;
+	width: 30%
+}
+.contact-me{
+	width: 40%;
+	margin: 40px auto 60px;
+	line-height: 2;
+	
+
+}
+
+.copyright{
+	color: grey;
+	font-family: 'Merriweather', sans-serif;
+	font-size: 0.75rem;
+	padding: 20px 0;
+
+}
+
+.btn {
+  background: #ffa5a5;
+  background-image: -webkit-linear-gradient(top, #ffa5a5, #e6739f);
+  background-image: -moz-linear-gradient(top, #ffa5a5, #e6739f);
+  background-image: -ms-linear-gradient(top, #ffa5a5, #e6739f);
+  background-image: -o-linear-gradient(top, #ffa5a5, #e6739f);
+  background-image: linear-gradient(to bottom, #ffa5a5, #e6739f);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Merriweather', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-bottom: 100px;
+}
+
+.btn:hover {
+  background: #fcdada;
+  background-image: -webkit-linear-gradient(top, #fcdada, #ffa5a5);
+  background-image: -moz-linear-gradient(top, #fcdada, #ffa5a5);
+  background-image: -ms-linear-gradient(top, #fcdada, #ffa5a5);
+  background-image: -o-linear-gradient(top, #fcdada, #ffa5a5);
+  background-image: linear-gradient(to bottom, #fcdada, #ffa5a5);
+  text-decoration: none;
+}
